@@ -32,14 +32,12 @@
 ### 📝 Certifications
 
 - 🏅 **Red Hat Certified Engineer (RHCE)**
-- (Add any other certifications here)
 
 ---
 
 ### 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/souvik-bhattacharya-561909195/)
-- ✉️ (Add your email if you want)
 
 ---
 
